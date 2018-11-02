@@ -12,5 +12,5 @@ I referred to the article "[AtCoder に登録したら次にやること ～ こ
 ---
 1. [ABC086A -Product](./beginner_practice_1)
 1. [ABC081A -PlacingMarbles](./beginner_practice_2)  
-1. [ABC081B -ShiftOnly](./beginner_practice_3
+1. [ABC081B -ShiftOnly](./beginner_practice_3)
 1. [ABC087B -Coins](./beginner_practice_4)
