@@ -1,4 +1,4 @@
-# 勉強したアルゴリズム　Alogorithm I studyed or coded
+# 勉強したアルゴリズム　Alogorithm I studyed 
 ## 要約-Abstract-  
 自分が勉強したアルゴリズムを収めるリポジトリ。特に言語統一はないけど主にPython(^ ^) AtCoderを参考にしがち。  
 This repository have codes of alogorithm which I studyed. Used languages are not unitied. Frequently Python:)
